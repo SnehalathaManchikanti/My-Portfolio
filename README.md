@@ -74,11 +74,10 @@ The website highlights data analysis skills, academic achievements, and professi
 
 ## 📱 Social Links
 
-- 🌐 *Portfolio Live Demo:* [Coming Soon](#)
-- 📸 *Instagram:* [instagram.com/yourprofile](https://www.instagram.com/yourprofile)
-- 💼 *LinkedIn:* [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🧠 *GitHub:* [github.com/SnehalathaManchikanti](https://github.com/SnehalathaManchikanti)
-- 📧 *Email:* snehalata@example.com
+- 🌐 *Portfolio Live Demo:https://snehalathamanchikanti.github.io/My-Portfolio/
+- 💼 *LinkedIn:* https://www.linkedin.com/in/snehareddy-manchikanti-8b1080379/
+- 🧠 *GitHub:* https://github.com/SnehalathaManchikanti
+- - 📧 *Email:* snehareddymanchikanti@gmail.com
 
 ---
 
