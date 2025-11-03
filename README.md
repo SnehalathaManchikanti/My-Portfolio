@@ -65,11 +65,6 @@ The website highlights data analysis skills, academic achievements, and professi
 - Interactive dashboards to explore global crowdfunding data.
 - [🔗 GitHub Repository](https://github.com/SnehalathaManchikanti/Crowd-Funding-Kickstater)
 
-### 2. 🔵 Customer Churn Prediction
-- Machine Learning model using Python to predict customer churn.
-- Includes exploratory data analysis and visualizations.
-- [🔗 GitHub Repository](https://github.com/SnehalathaManchikanti/Churn-Prediction)
-
 ---
 
 ## 📱 Social Links
